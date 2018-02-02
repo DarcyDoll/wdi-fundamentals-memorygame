@@ -58,11 +58,8 @@ main {
   margin-bottom: 35px;
   margin-left: auto;
   margin-right: auto;
-} 
-img {
-  margin: 40px 8px 0px 8px; 
-}
-footer {
+  }
+  footer {
   text-transform: uppercase;
   padding: 0 20px;
   background-color: #0D2C40;
@@ -84,6 +81,9 @@ footer {
   clear: both;
   height: 0;
   font-size: 0;
+}
+img {
+  margin: 40px 8px 0px 8px;
 }
 .name {
   color: #F15B31;
